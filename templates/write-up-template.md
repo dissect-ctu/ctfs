@@ -2,11 +2,16 @@
 
 ## `<CTF Name> <Challenge Name>`
 
-__ctf__: `<ctf name>`
+__ctf__: `<ctf name>` 
+
 __challenge__: `<Name>`
+
 __category__: `<Category>`
+
 __points__: `<NUM>`
+
 __solver__: `<username>`
+
 __description__:
 
 ---
