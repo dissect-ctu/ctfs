@@ -1,4 +1,4 @@
-#writeup #ctf #{competition_name} #{category} #{tools_used}
+#v0.1
 
 ## `<CTF Name> <Challenge Name>`
 
