@@ -5,7 +5,9 @@ __dates:__ 29/06/2019 - 30/06/2019 (24h)
 
 __participants:__ `ordbl0ke`, `gorei`, `havry`
 
-__results:__ 100/327 `710`pts
+__place__: 100/327
+
+__points__: `710`pts
 
 __solved challenges:__ 
 
