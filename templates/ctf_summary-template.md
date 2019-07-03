@@ -6,7 +6,9 @@ __dates:__ `<dd>/<mm>/<yyyy>` - `<dd>/<mm>/<yyyy>` (<duration>)
 
 __participants:__ `usernames`
 
-__results:__  `<place>/<total_teams>` <points>pts
+__place__: `<place>/<total_teams>`
+
+__points:__   <points>pts
 
 __solved challenges:__
 
