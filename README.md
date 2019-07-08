@@ -2,6 +2,12 @@
 
 DISsecT@CTU repository for all ctf-related stuff.
 
+## Major League Cyber profile
+https://www.majorleaguecyber.org/teams/DISsecT%40CTU#
+
+## ctftime profile
+https://ctftime.org/team/80103
+
 ## Structure
 One folder per CTF, which contains one folder for each task.
 Example of single ctf folder:
