@@ -41,7 +41,7 @@ Ch3cking func:
 
 This is clearly and output of Python's `dis` module. I couldn't find a tool that transforms this disassembly to python source code. There are tools like [uncompyle](https://pypi.org/project/uncompyle6/), which make it easy to transform bytecode to source code and thus make the reversing much simpler, but not for thi disassembly version. 
 
-Thus, the only option left was to learn how to read these instruction (to be fair, the necessities for this challenge weren't too difficult). 
+Therefore, the only option left was to learn how to read these instruction (to be fair, the necessities for this challenge weren't too difficult). 
 
 This 'language' can be read as accumulator-oriented machine's assembly. It also has some global and local fields for variables, filled with values that are indexed by the instructions.  `LOAD_`instructions place stuff on stack, `STORE_` instructions places stuff from stack to these memory fields. Operators operate on operands on stack, functions are being called depending on what's on stack. 
 
