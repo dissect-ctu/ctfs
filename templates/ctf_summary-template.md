@@ -5,7 +5,9 @@ __url__: `<ctf_url>` \\
 __dates:__ `<dd>/<mm>/<yyyy>` - `<dd>/<mm>/<yyyy>` (<duration>) \\
 __participants:__ `usernames` \\
 __place__: `<place>/<total_teams>` \\
-__points:__   <points>pts \\
+__points:__   <points>pts
+
+---
 
 Some warm words about how we generally liked the ctf
 

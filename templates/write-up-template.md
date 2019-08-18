@@ -4,15 +4,15 @@
 
 ### Challenge Info
 
-__ctf__: `<ctf name>` \\
-__challenge__: `<Name>` \\
-__category__: `<Category>` \\
-__solves__: `<NUM>/<NUM>` \\
-__points__: `<NUM>` \\
-__solver__: `<username>` \\ 
-__description__: `copied given challenge description` \\
-__keywords__: `<#keyword>` \\
-__original write up__: [`link name`](github or delete whole line if only a blogpost ) \\
+__ctf__: `<ctf name>` \
+__challenge__: `<Name>` \
+__category__: `<Category>` \
+__solves__: `<NUM>/<NUM>` \
+__points__: `<NUM>` \
+__solver__: `<username>` \ 
+__description__: `copied given challenge description` \
+__keywords__: `<#keyword>` \
+__original write up__: [`link name`](github or delete whole line if only a blogpost )
 
 ---
 
