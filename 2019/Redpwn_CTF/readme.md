@@ -1,9 +1,9 @@
 ## Redpwn CTF 2019
-__url__: https://ctf.redpwn.net \\
-__dates:__ `12/08/2019` - `16/08/2019` (5 days) \\
-__participants:__ `gorei`,`ordbl0ke` \\
-__place__: `137/926` \\
-__points:__   1164pts \\
+__url__: https://ctf.redpwn.net \
+__dates:__ `12/08/2019` - `16/08/2019` (5 days) \
+__participants:__ `gorei`,`ordbl0ke` \
+__place__: `137/926` \
+__points:__   1164pts \
 
 The first ever Redpwn CTF produced interesting challenges and we surely had fun and learned new things.
 Big amount of solvers and dynamic scores significantly degraded some challenges over time (e.g. challenge with 102/926 solves was worth the same amount of points as survey).
