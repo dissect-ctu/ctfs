@@ -12,11 +12,22 @@ https://ctftime.org/team/80103
 One folder per CTF, which contains one folder for each task.
 Example of single ctf folder:
 ```
-├── 2019-ISITDTUCTF_QUALS
-│   ├── readme.md - contains ctf summary
-│   └── [Pwn]debugme_100pts
-│       ├── {attached_files} (challenge files, exploits, solvers... )
-│       └── readme.md - contains challenge write up
+├── 2019
+│   ├── ISITDTUCTF_QUALS                        # CTF directory
+│   │   ├── readme.md                           # CTF summary
+│   │   └── rev_Pytecode_100pts                 # Challenge directory
+│   │       ├── pytecode                        # Challenge file
+│   │       └── readme.md                       # Challenge write up
+│   └── Redpwn_CTF
+│       ├── pwn_BronzeRopchain_50pts
+│       ├── pwn_ROT26_50pts
+│       │   ├── img                             # Challenge write up images directory
+│       │   │   ├── fail.png
+│       │   │   └── success.png
+│       │   └── readme.md                       # Challenge write up
+│       ├── pwn_Zipline_50pts
+│       ├── readme.md                           # CTF summary 
+│       └── re_JavaIsEZ_120pts
 ```
 
 ## Naming conventions
@@ -26,15 +37,15 @@ Example of single ctf folder:
 ```
 
 ### CTF folder
-`<YYYY>-<CTF_NAME>_{QUALS|FINALS}`
+`<YYYY>/<CTF_NAME>_{QUALS|FINALS}`
 
 examples:
-`2019-WPICTF`
-`2019-WPICTF_QUALS`
+`2019/WPICTF`
+`2019/ISITDTU`
 
 
 ### TASK folder
-`[<category>]<TASK_NAME> <points>pts` 
+`<category>_<TASK_NAME>_<points>pts` 
 
 examples:
-`[pwn]debugme 100pts`
+`pwn_debugme_100pts`
