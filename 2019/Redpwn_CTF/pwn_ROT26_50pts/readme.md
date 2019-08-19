@@ -2,15 +2,15 @@
 
 ### Challenge Info
 
-__ctf__: `Redpwn` \\
-__challenge__: `ROT26` \\
-__category__: `Pwn` \\
-__solves__: `203/926` \\
-__points__: `50` \\
-__solver__: `ordbl0ke` \\ 
-__description__: `written by: blevy, nc chall2.2019.redpwn.net 4003` \\
-__keywords__: `format string vulnerability, overwrite GOT, C` \\
-__original write up__: [`link name`](github or delete whole line if only a blogpost ) \\
+__ctf__: `Redpwn` \
+__challenge__: `ROT26` \
+__category__: `Pwn` \
+__solves__: `203/926` \
+__points__: `50` \
+__solver__: `ordbl0ke` \ 
+__description__: `written by: blevy, nc chall2.2019.redpwn.net 4003` \
+__keywords__: `format string vulnerability, overwrite GOT, C` \
+__original write up__: [here](https://github.com/dissect-ctu/ctfs/tree/master/2019/Redpwn_CTF/pwn_ROT26_50pts) 
 
 ---
 
